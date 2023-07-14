@@ -1,4 +1,4 @@
-# astradd
+# Astradd
 
 O projeto astradd consiste na criação de um sistema de gerenciamento de hospital que envolve um programa Java desktop e uma aplicação web em PHP. Ambos os sistemas são interconectados e trabalham em conjunto para fornecer um ambiente completo de gerenciamento hospitalar.
 
